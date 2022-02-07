@@ -38,7 +38,5 @@ Find out more about me & feel free to connect with me here:
 
 ## 📈 Stats
 
-<p >
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chladek&layout=compact&show_icons=true&hide_border=true&theme=synthwave" />
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=chladek&hide_border=true&theme=synthwave" />
-</p>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chladek&layout=compact&show_icons=true&hide_border=true&theme=synthwave" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=chladek&hide_border=true&theme=synthwave" />
