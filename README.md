@@ -1,6 +1,8 @@
 
 # Hey, great to see you here! 
 I'm passionate fullstack developer from Poland!
+Check out my projects: https://chladek.vercel.app/projects
+
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
