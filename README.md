@@ -4,13 +4,13 @@ I'm passionate fullstack developer from Poland!
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-  <a href="https://portfoliobc.vercel.app">
+  <a href="https://chladek.vercel.app">
 		<img src="https://img.shields.io/badge/portfolio-473bf0?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	  <a href="https://www.behance.net/chladek">
 		<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
 	</a>
-  <a href="mailto:chladek13@gmail.com">
+  <a href="mailto:bartosz.chlad@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
