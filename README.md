@@ -17,11 +17,7 @@ Find out more about me & feel free to connect with me here:
 	</a>
 </p>
 
----
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chladek&hide_border=true&theme=rogue)
-
----
 
 ## ⚡ Tech Stack
 
